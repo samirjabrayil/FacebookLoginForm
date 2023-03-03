@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all{
+    background-color: #F0F2F5;
+    padding: 16rem;
+}
+.logo img{
+    width: 40%;
+    /* margin-left: -110px;
+    margin-top: -40px; */
+    margin: -28px;
+}
+.logo h2{
+    padding: 0px 0px 20px;
+    width: 400px;
+    font-weight: 200;
+    font-size: 30px;
+}
+.logo{
+    margin: -28px;
+}
+.form{
+    background-color: #fff;
+    width: 350px;
+    height: 360px;
+    margin-left: 30rem;
+    margin-top: -15rem;
+    padding: 20px 25px 20px 25px;  
+    border-radius: 10px;
+}
+.form input{
+    width: 300px;
+    height: 45px;
+    margin-bottom: 10px;
+    outline: none;
+}
+.login a{
+    text-decoration: none;
+    margin-left: 10px;
+    background-color: #1A78F2;
+    color: #fff;
+    padding: 14px 115px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 7px ;
+    margin-bottom: 20px;
+
+}
+.login{
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+.forgot a{
+    text-decoration: none;
+    color: #1A78F2;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 95px;
+}
+.forgot{
+    margin-bottom: 20px;  
+}
+.newaccount a{
+    text-align: center;
+    text-decoration: none;
+    margin-left: 10px;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+}
+hr{
+    border: 1px solid rgba(145, 145, 145, 0.336);
+}
+.newaccount{
+    margin-top: 40px;
+    background-color: #42B72A;
+    padding: 15px 0px;
+    border-radius: 7px;
+    text-align: center;
+}
+.lastpart{
+    margin-top: 20px;
+    margin-left: 505px;
+    width: 400px;
+}
